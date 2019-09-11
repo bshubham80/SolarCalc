@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9E:CE:BE:09:50:E9:F7:BF:79:E2:A3:DE:3F:AB:78:A3:87:29:E2:37%3Bcom.practice.solarcalculator
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    9E:CE:BE:09:50:E9:F7:BF:79:E2:A3:DE:3F:AB:78:A3:87:29:E2:37
+
+    SHA-1 certificate fingerprint:
+    9E:CE:BE:09:50:E9:F7:BF:79:E2:A3:DE:3F:AB:78:A3:87:29:E2:37
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDQBQXcYGOIuP0AHaT_D4i3Mu3V2fic3-w</string>
+</resources>

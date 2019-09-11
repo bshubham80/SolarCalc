@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_save_location"
+        android:icon="@drawable/ic_add_location_white_24dp"
+        android:title="@string/menu_item_add_location"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_view_location"
+        android:icon="@drawable/ic_bookmark_white_24dp"
+        android:title="@string/menu_item_bookmark"
+        app:showAsAction="ifRoom"/>
+</menu>
